@@ -1,0 +1,33 @@
+{
+    "token": "",
+    "chat_ids": [],
+    "API_url": "http://127.0.0.1:8000/generate_alert",
+    "port": 8000,
+    
+    "welcome_message": {
+        "media": "https://mir-s3-cdn-cf.behance.net/project_modules/disp/ce7dc693658133.5e98adbf743e2.gif"
+    },
+    "goodbye_message": {
+        "media": "https://e7.pngegg.com/pngimages/952/678/png-clipart-pepe-the-frog-pol-jpeg-imgur-pubg-telegram-stickers-hat-vertebrate.png"
+    },
+    "alerts": {
+        "info": {
+            "file_ids": {
+                "cool_cat": "CgACAgIAAxkBAAMIYvjHhj-FxDSFWaKE9RGYDAGr_W4AAtQAA4G_yUjry5UXraJ2fykE",
+                "cookie_monster": "CgACAgQAAxkBAAMQYvjIGHMJgmq6Nbo9aE1WPXK-iVUAAtwDAAL5HWQHFh6FJU4B5cIpBA"
+            }
+        },
+        "warning": {
+            "file_ids": {
+                "shocked": "CgACAgQAAxkBAAMJYvjHkGsgNALQLnL9ZI90DL_OK1sAAkAKAAIkGGQHKwzfnQw9_YopBA",
+                "sorry_im_trash": "CgACAgQAAxkBAAMMYvjHwy2lq96PBmqii3s_o3H-6uMAAlcuAAIuG2QHTJ6PuIFrFTUpBA"
+            }
+        },
+        "error": {
+            "file_ids": {
+                "lemon_shouting": "CgACAgQAAxkBAAMGYvjHTQm-1aj9ung6Jokl7wV-2sIAAs6fAAK_HmQHRsiFR8Tscg4pBA",
+                "lemon_shouting_2": "CgACAgQAAxkBAAMLYvjHug22iR8tWZPzXI630PFK8J8AAp4DAAI9HWQH4HOkSfr19PQpBA",
+            }
+        }
+    }
+}
