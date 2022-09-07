@@ -20,11 +20,11 @@ Minimal example on how to setup a telegram bot to forward alert and log messages
 3. Configure the configuration file `config_alerts_bot.json` to include the bot token 
 4. Run the API: 
    ```
-   python alerts_api.json
+   python alerts_api.py
    ```
 5. Run the telegram bot api: 
    ```
-   python alerts_bot.json
+   python alerts_bot.py
    ```
 6. Start a convertsation with the bot and input the `/start` command
 7. Generate test alerts from the chat with: `/info_command`, `/warning_command`, `/error_command` commands
